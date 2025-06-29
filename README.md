@@ -1,6 +1,6 @@
 # WeWeb CLI
 
-[![pkg.pr.new](https://pkg.pr.new/badge/weweb-team/weweb-cli)](https://pkg.pr.new/~/weweb-team/weweb-cli)
+[![pkg.pr.new](https://pkg.pr.new/badge/leo91000/weweb-cli)](https://pkg.pr.new/~/leo91000/weweb-cli)
 
 Command-line interface for building WeWeb components (elements, sections, and plugins).
 
