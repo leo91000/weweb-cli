@@ -1,0 +1,11 @@
+name: Enable Actions
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  enable:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Actions are enabled"
